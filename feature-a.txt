@@ -5,3 +5,4 @@ Baris 4
 Baris 5
 Baris 6
 Baris 7
+Baris 7 - stash
